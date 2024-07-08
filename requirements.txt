@@ -1,0 +1,9 @@
+tesseract-ocr
+tesseract-ocr-por
+opencv
+pytesseract
+cv2
+os 
+pdf2
+tempfile
+PIL
